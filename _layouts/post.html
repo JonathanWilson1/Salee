@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<header class="post-header">
+  <div class="bgimg"></div>
+
+</header>
+
+<br><br>
+<div class="container">
+  <div class="row">
+    <h1 class="post-title">{{ page.title }}</h1>
+
+  </div>
+  <br><br>
+  {{ content }}
+
+</div>
+
+<style type="text/css">
+  .bgimg {
+    background: url("{{ page.featured-image }}") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 500px;
+  }
+</style>
