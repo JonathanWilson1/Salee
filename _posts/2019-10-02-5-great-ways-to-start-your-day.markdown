@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "5 Great ways to start your day"
-date:   2019-10-02 16:18:30 +0100
 categories: blog
 featured-image: "/images/blog/PodcastAlarmDiscover.jpg"
 featured-image-alt: Woman holding an iPhone 8 with the PA discover screen visible
