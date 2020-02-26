@@ -22,5 +22,10 @@ label {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 600px;
+  height: 100%;
+}
+
+.videoDemo {
+  width: 100%    !important;
+  height: auto   !important;
 }
