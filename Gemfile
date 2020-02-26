@@ -18,6 +18,13 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.11.0"
 end
 
+group :jekyll_plugins do
+  gem 'jekyll-gzip'
+end
+
+gem 'jekyll-press'
+gem 'jekyll-compress-images'
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do

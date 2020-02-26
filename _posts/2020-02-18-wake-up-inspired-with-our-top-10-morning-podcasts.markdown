@@ -165,4 +165,4 @@ description: "Podcast Alarm helps hundreds of users find their favourite morning
 </div>
 
 </div>
-<a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/AppStoreButton.png" height="45"></a>
+<a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/AppStoreButton.png" alt="Download on the Apple App store" height="45"></a>

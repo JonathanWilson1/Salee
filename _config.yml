@@ -33,7 +33,10 @@ github_username: jonathanwilson1
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-gzip
+  - jekyll-compress-images
+  - jekyll-press
+  
 sass:
   style: compressed
 

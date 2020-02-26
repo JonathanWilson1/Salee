@@ -3,18 +3,32 @@
 
 <head>
   <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-WMTB792');</script>
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WMTB792');
+  </script>
   <!-- End Google Tag Manager -->
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131168990-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
     gtag('js', new Date());
 
     gtag('config', 'UA-131168990-1');
@@ -23,7 +37,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ page.title }}</title>
+  <title>Podcast Alarm</title>
   <meta name="title" content="Podcast Alarm">
   <meta name="description" content="Alarm clock app that plays podcast episodes whenever you want. You can even wake up to the latest episode each day. Full featured podcast player too, no need to have more than one app.">
 
@@ -43,9 +57,7 @@
 
   <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
-
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/darkly/bootstrap.min.css" crossorigin="anonymous">
-  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="apple-touch-icon" href="/images/favicon.ico">
 </head>
 
 <body>
@@ -64,7 +76,7 @@
       </ul>
     </div>
     <div class="mx-auto order-0">
-      <a href="/"><img src="/images/PodcastAlarmLogo.png" width="45" height="45" class="rounded" /></a>
+      <a href="/"><img src="/images/PodcastAlarmLogo.png" alt="Podcast Alarms logo, the podcast icon with two bells on top to look like an alarm" width="45" height="45" class="rounded" /></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -72,7 +84,7 @@
     <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/AppStoreButton.png" height="45"/></a>
+          <a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/AppStoreButton.png" alt="Download on the Apple App store" height="45"/></a>
         </li>
       </ul>
     </div>
@@ -144,10 +156,10 @@
 
             </li>
             <li>
-              <a target="_blank" href="https://twitter.com/PodcastAlarm" class="text-info">Twitter</a>
+              <a target="_blank" rel="noreferrer" href="https://twitter.com/PodcastAlarm" class="text-info">Twitter</a>
             </li>
             <li>
-              <a target="_blank" href="https://www.facebook.com/podcastalarm/" class="text-info">Facebook</a>
+              <a target="_blank" rel="noreferrer" href="https://www.facebook.com/podcastalarm/" class="text-info">Facebook</a>
             </li>
 
           </ul>
@@ -162,7 +174,7 @@
 
           <br><br>
 
-          <a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/AppStoreButton.png" height="45"/></a>
+          <a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/AppStoreButton.png" alt="Download on the Apple App store" height="45"/></a>
 
         </div>
         <!-- Grid column -->
@@ -188,12 +200,9 @@
 
 
   </footer>
-  <!-- Footer -->
 
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  <script src="https://kit.fontawesome.com/6b7bac7711.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/styles.css">
 </body>
 
 </html>

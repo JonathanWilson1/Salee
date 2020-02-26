@@ -19,4 +19,4 @@ description: "Wake up early and listen to your favourite show, or sleep easy kno
   <p>Want to wake up inspired? Download Podcast Alarm today and start your day a more interesting way! <br><br></p>
   <br><br>
 </div>
-<a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/AppStoreButton.png" height="45"></a>
+<a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/AppStoreButton.png" alt="Download on the Apple App store" height="45"></a>
