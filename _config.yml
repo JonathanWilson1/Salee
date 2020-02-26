@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Podcast Alarm
-email: ""
+email: "jonathan@podcastalarm.app"
 description: >- # this means to ignore newlines until "baseurl:"
   Alarm clock app that plays podcast episodes whenever you want.
   You can even wake up to the latest episode each day.
   Full featured podcast player too, no need to have more than one app.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.podcastalarm.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: podcastalarm
 github_username: jonathanwilson1
 
@@ -34,7 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-
+sass:
+  style: compressed
 
 
 
