@@ -7,7 +7,7 @@ featured-image-alt: Woman holding an iPhone 8 with the PA set alarm screen visib
 description: "Wake up early and listen to your favourite show, or sleep easy knowing that you wont miss the latest episode of a gripping drama. Podcast alarm is an alarm clock that plays podcasts!"
 ---
 
-<div class="row">
+
   <h3>Set yourself up for success</h3>
 
   <p>Wake up early and listen to your favourite show, or sleep easy knowing that you wont miss the latest episode of a gripping drama. Podcast alarm is an alarm clock that plays podcasts! <br><br></p>
@@ -17,6 +17,3 @@ description: "Wake up early and listen to your favourite show, or sleep easy kno
   <p>If you know your show won’t release a new episode until late at night, then just subscribe to their show and have the app automatically download it and set the alarm for you. If you like a daily show you could set the alarm once and wake up to it for a whole year! <br><br></p>
 
   <p>Want to wake up inspired? Download Podcast Alarm today and start your day a more interesting way! <br><br></p>
-  <br><br>
-</div>
-<a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/AppStoreButton.png" alt="Download on the Apple App store" height="45"></a>

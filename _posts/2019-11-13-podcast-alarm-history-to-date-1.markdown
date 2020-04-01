@@ -7,7 +7,7 @@ featured-image-alt: "Three screens from Podcast Alarm: Discover, Alarm, Podcast"
 description: "Podcast alarm development started in December of 2018 as a weekend project, I wanted to create a utility that would boost my productivity and give me motivation at the start of the day."
 ---
 
-<div class="row">
+
 
   <p>Podcast Alarm development started in December of 2018 as a weekend project, I wanted to create a utility that would boost my productivity and give me motivation at the start of the day. The plan was to wake up and have the podcast play throughout the house, letting me go through my daily routine while it played.</p>
 
@@ -31,11 +31,3 @@ description: "Podcast alarm development started in December of 2018 as a weekend
   <p>To further improve development speed I would design the UI in a way that could easily make use of reusable elements. It’s a common practice to create buttons etc that can be reused, but I found when I combined it with design it was much more powerful tool. In the end the majority of the app was created with table views and a small handful of cells.</p>
 
   <p>I will continue this in another post, I hope it gives you an understanding of the development process. In the next post I will talk about some bumps in the road and plans for the future.</p>
-
-  <br/>
-  <br/>
-
-</div>
-
-
-<a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/AppStoreButton.png" alt="Download on the Apple App store" height="45"></a>
