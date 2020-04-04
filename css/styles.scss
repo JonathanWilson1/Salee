@@ -2,6 +2,12 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
+// Author on blog post
+.authorText {
+  font-size: 17px;
+  line-height: 0.5;
+}
+
 body {
   font-family: proxima-nova,Helvetica Neue,Arial,sans-serif!important;
   /* default is 1rem or 16px */

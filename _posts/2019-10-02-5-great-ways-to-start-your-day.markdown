@@ -63,4 +63,4 @@ permalink: blog/5-great-ways-to-start-your-day
 <br>
 Want to wake up inspired? Download Podcast Alarm today and start your day a more interesting way!
 <br>
-<a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/AppStoreButton.png" alt="Download on the Apple App store" height="45"/></a>
+<a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/apple.svg" alt="Download on the Apple App store" height="45"/></a>
