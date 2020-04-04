@@ -6,6 +6,18 @@ featured-image: "/images/blog/WhatIsAPodcast/whatisapodcast.jpg"
 featured-image-alt: Woman wearing headphones with a pink background - Photo by Elice Moore on Unsplash
 description: "A podcast is a collection of pre-recorded audio episodes. Each is usually under 40 minutes long and can cover any topic. Popular podcasts range from anecdotal stories by comedians to gripping drama series. Most people listen to podcasts on their phones, but you can also use a web browser too. "
 permalink: blog/what-is-a-podcast
+GoogleStructuredData: {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "What is a podcast?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A podcast is a collection of pre-recorded audio episodes. Each is usually under 40 minutes long and can cover any topic. Popular podcasts range from anecdotal stories by comedians to gripping drama series. Most people listen to podcasts on their phones, but you can also use a web browser too."
+        }
+      }]
+    }
 ---
 
 <p>A podcast is a collection of pre-recorded audio episodes. Each is usually under 40 minutes long and can cover any topic. Popular podcasts range from anecdotal stories by comedians to gripping drama series. Most people listen to podcasts on their phones, but you can also use a web browser too. </p>
