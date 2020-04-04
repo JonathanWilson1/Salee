@@ -57,10 +57,3 @@ permalink: blog/5-great-ways-to-start-your-day
 <p>It’s easy to lose track of time scrolling through Reddit or be distracted by countless group chats. We are constantly connected now, obligated to reply as soon as the Whatsapp read receipt has been received. Suddenly as soon as we wake up and look at our devices our heads are filled with so much more information and clutter. Try to set your phone in aside in the morning and use this time to focus on yourself and what you want to get out of your day. <br><br></p>
 
 <img src="http://giphygifs.s3.amazonaws.com/media/mxRaZPLTbuXwQ/giphy.gif"/>
-
-
-
-<br>
-Want to wake up inspired? Download Podcast Alarm today and start your day a more interesting way!
-<br>
-<a href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/apple.svg" alt="Download on the Apple App store" height="45"/></a>
