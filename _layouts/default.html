@@ -62,9 +62,20 @@
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/styles.css">
 
-  {% if page.GoogleStructuredData %}
+  {% if page.question and page.answer %}
     <script type="application/ld+json">
-      {{ page.GoogleStructuredData }}
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "{{ page.question }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ page.answer }}"
+        }
+      }]
+    }
     </script>
   {% endif %}
 
