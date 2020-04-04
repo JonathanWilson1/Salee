@@ -62,22 +62,37 @@
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/styles.css">
 
-  {% if page.question and page.answer %}
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "{{ page.question }}",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "{{ page.answer }}"
-        }
-      }]
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Podcast Alarm",
+    "operatingSystem": "iOS",
+    "applicationCategory": "EntertainmentApplication",
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "jkeitz"
+      },
+      "reviewBody": "I have wanted to wake to podcasts for years, and now I finally can!  This isn’t just any old app, though. You can schedule multiple alarms for multiple podcasts. There is a nightstand mode showing the time all night. The best part? A developer who really cares. I posted one request at Facebook and Bam!  New feature (I asked that they make the time in nightstand mode float a bit to prevent burn in on OLED iPhones)."
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "3.6",
+      "ratingCount": "32"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "2.99",
+      "priceCurrency": "GBP"
     }
-    </script>
-  {% endif %}
+  }
+  </script>
 
 </head>
 
