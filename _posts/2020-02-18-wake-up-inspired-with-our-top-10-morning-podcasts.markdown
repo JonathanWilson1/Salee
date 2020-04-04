@@ -5,6 +5,7 @@ categories: blog
 featured-image: "/images/blog/Top10MorningPodcasts/podcastalarmbed.jpg"
 featured-image-alt: Woman holding an iPhone x with the PA set alarm screen visible
 description: "Podcast Alarm helps hundreds of users find their favourite morning podcasts and we have created this list of the most popular options selected by our users."
+permalink: blog/top-10-morning-podcasts
 ---
 
 
