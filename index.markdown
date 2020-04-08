@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /betatest/
 ---
 
 {% include videoRow.html %}

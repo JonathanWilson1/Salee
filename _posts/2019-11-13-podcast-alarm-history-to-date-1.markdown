@@ -6,6 +6,7 @@ featured-image: "/images/blog/PodcastAlarmThreeScreens.jpg"
 featured-image-alt: "Three screens from Podcast Alarm: Discover, Alarm, Podcast"
 description: "Podcast alarm development started in December of 2018 as a weekend project, I wanted to create a utility that would boost my productivity and give me motivation at the start of the day."
 permalink: blog/podcast-alarm-history
+redirect_from: /blog/2019/11/13/podcast-alarm-history-to-date-1.html
 ---
 
 

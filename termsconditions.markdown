@@ -2,6 +2,7 @@
 layout: page
 title: Terms and Conditions
 permalink: /terms-conditions
+redirect_from: /termsconditions/
 ---
 
 Podcastalarm.app – Last updated 08/17/2019

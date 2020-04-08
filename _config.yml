@@ -34,9 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gzip
-  - jekyll-compress-images
-  - jekyll-press
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 sass:
   style: compressed
