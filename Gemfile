@@ -23,6 +23,7 @@ group :jekyll_plugins do
 end
 
 gem 'jekyll-press'
+gem 'jekyll-sitemap'
 gem 'jekyll-compress-images'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

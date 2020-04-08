@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms and Conditions
-permalink: /termsconditions/
+permalink: /terms-conditions
 ---
 
 Podcastalarm.app – Last updated 08/17/2019

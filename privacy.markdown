@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Notice
-permalink: /privacy-policy/
+permalink: /privacy-policy
 ---
 Last updated November 01, 2018
 
@@ -159,4 +159,4 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
 In Short: Yes, we will update this policy as necessary to stay compliant with relevant laws.
 
-We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information. 
+We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
