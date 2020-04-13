@@ -25,7 +25,6 @@ description: >-
   You can even wake up to the latest episode each day.
   Full featured podcast player too, no need to have more than one app.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.podcastalarm.app"
 twitter_username: podcastalarm
 github_username: jonathanwilson1
 
