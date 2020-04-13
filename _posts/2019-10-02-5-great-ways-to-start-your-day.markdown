@@ -5,7 +5,7 @@ categories: blog
 featured-image: "/images/blog/PodcastAlarmDiscover.jpg"
 featured-image-alt: Woman holding an iPhone 8 with the PA discover screen visible
 description: "Getting up in the morning is TOUGH. Good intentions the night before are easily brushed off by the morning temptation to hit snooze. Before you know it your running late, you’ve skipped breakfast, and you’ve off to a bad start"
-permalink: blog/5-great-ways-to-start-your-day
+permalink: /blog/5-great-ways-to-start-your-day
 ---
 
 <h3>Set yourself up for success</h3>
