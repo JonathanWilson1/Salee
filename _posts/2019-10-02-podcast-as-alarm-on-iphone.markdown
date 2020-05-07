@@ -7,6 +7,8 @@ featured-image-alt: Woman holding an iPhone 8 with the PA set alarm screen visib
 description: "Wake up early and listen to your favourite show, or sleep easy knowing that you wont miss the latest episode of a gripping drama. Podcast alarm is an alarm clock that plays podcasts!"
 permalink: /blog/podcast-as-an-alarm-on-iPhone
 redirect_from: /blog/2019/10/02/podcast-as-alarm-on-iphone.html
+author: "Jonathan Wilson"
+authorImage: "/images/blog/me.jpeg"
 ---
 
 

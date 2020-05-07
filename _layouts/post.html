@@ -17,10 +17,10 @@ layout: default
     </div>
 
     <div class="col-sm-2 text-center">
-      <img src="/images/blog/me.jpeg" alt="Jonathan Wilson - Podcast Alarm creator" class="rounded-circle" width="90">
+      <img src="{{ page.authorImage }}" alt="{{ page.author }}" class="rounded-circle" width="90">
 
       <br><br>
-      <p class="font-weight-light authorText">by <a target="\_blank" rel="noreferrer" href="https://www.linkedin.com/in/jonathanwilson0/" class="text-info">Jonathan Wilson</a></p>
+      <p class="font-weight-light authorText">by {{ page.author }}</p>
       <p class="font-weight-light authorText">{{ page.date | date: '%B %d, %Y' }}</p>
 
       <hr/>
