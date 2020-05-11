@@ -86,3 +86,13 @@ a:hover {
 #mce-EMAIL {
   margin-right: 10px;
 }
+
+.logo {
+  /* Extra small devices (phones, less than 768px) */
+  font-size: 2rem;
+
+  /* Small devices (tablets, 768px and up) */
+  @media (min-width: 768px) {
+    font-size: 3rem;
+  }
+}

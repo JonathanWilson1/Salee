@@ -6,7 +6,7 @@ featured-image: "/images/blog/MarketingStrategies/socialMedia.jpg"
 featured-image-alt: Image by Photo Mix from Pixabay - Social Icons
 description: "You have a great restaurant but not many people know it even exists, you need to let the right people know about your food, experiences and culture. How can you take advantage of the digital marketing trends of 2020."
 permalink: /blog/restaurant-digital-marketing-strategies-that-work
-author: "James Patterson"
+author: "James P."
 authorImage: "/images/blog/default.png"
 ---
 

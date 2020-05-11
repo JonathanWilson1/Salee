@@ -6,7 +6,7 @@ featured-image: "/images/blog/RestaurantMarketing/BellaBot.jpg"
 featured-image-alt: "BellaBot, food delivery robot"
 description: "Like it or not 2020 technology trends will be shaped by the Covid 19 virus and the processes in place to prevent its spread. This year you can expect delivery apps, robotics, take home alternatives, and contactless payments to be at the top of this year's innovations."
 permalink: /blog/restaurant-technology-and-trends-for-2020
-author: "James Patterson"
+author: "James P."
 authorImage: "/images/blog/default.png"
 ---
 
