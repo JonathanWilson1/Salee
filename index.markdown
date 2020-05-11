@@ -2,7 +2,6 @@
 layout: default
 ---
 <div class="container">
-<br><br>
 
 <div class="row">
 {% for post in site.posts limit:1 %}
