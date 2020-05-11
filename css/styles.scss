@@ -2,52 +2,87 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-// Author on blog post
-.authorText {
-  font-size: 17px;
-  line-height: 1;
-}
+$base-color: #c6538c;
+
+// Graphik,Trebuchet,Verdana,Helvetica,Arial,sans-serif
 
 body {
-  font-family: proxima-nova,Helvetica Neue,Arial,sans-serif!important;
-  /* default is 1rem or 16px */
-  font-size: 20px;
-  font-weight: 400;
-  line-height: 1.5;
+  font-family: Graphik,Trebuchet,Verdana,Helvetica,Arial,sans-serif!important;
 }
 
-/* Increase all font sizes on mobile */
-@media (max-width: 767px) {
-  body {
-    /* default is 1rem or 16px */
-    font-size: 25px;
-  }
+.text-base-color {
+  color: $base-color;
+}
+
+.card-tag {
+ color: $base-color;
+}
+
+.card {
+  border: none;
+  border-radius: 0px;
+  margin: 0px;
+}
+
+.card:hover {
+  -webkit-box-shadow: 0px 0px 4px 0px rgba(237,232,237,1);
+-moz-box-shadow: 0px 0px 4px 0px rgba(237,232,237,1);
+box-shadow: 0px 0px 4px 0px rgba(237,232,237,1);
+  cursor: pointer;
+}
+
+.card-title {
+  color: black;
+}
+
+.card-body {
+  color: black;
 }
 
 a:hover {
-  color: transparent;
+  text-decoration: none;
 }
 
-// Signup Row
-label {
-  padding-right: 20px;
+.card-img {
+  padding: 25px;
+  object-fit: cover;
+  overflow: hidden;
+  height: 230px;
+}
+
+.featured-card-img {
+  padding: 20px;
+  object-fit: cover;
+  overflow: hidden;
+  width: 100%;
+  height: 400px;
+}
+
+.featured-card {
+  border: none;
+  border-radius: 0px;
+  margin: 0px;
+  padding: 25px;
+}
+
+.featured-card:hover {
+  cursor: pointer;
+}
+
+.half-card-img {
+  padding: 20px;
+  object-fit: cover;
+  overflow: hidden;
+  width: 100%;
+}
+
+.post-img {
+  object-fit: cover;
+  overflow: hidden;
+  width: 100%;
+  height: 370px;
 }
 
 #mce-EMAIL {
   margin-right: 10px;
-}
-
-// Tweet Row
-.bgimgtweet {
-  background: url('/images/PodcastBackground.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: 100%;
-}
-
-.videoDemo {
-  width: 100%    !important;
-  height: auto   !important;
 }
