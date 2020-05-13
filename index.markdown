@@ -34,5 +34,12 @@ layout: default
   </div>
 {% endfor %}
 </div>
+<div class="row">
+{% for post in site.posts offset:5 limit:1 %}
+  <div class="col-sm d-flex align-items-stretch">
+    {% include blogPostItemHalfRow.html %}
+  </div>
+{% endfor %}
+</div>
 
 </div>
