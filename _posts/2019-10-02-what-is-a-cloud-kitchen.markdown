@@ -10,7 +10,7 @@ author: "David k."
 authorImage: "/images/blog/default.png"
 ---
 
-<p>A Cloud Kitchen is a restaurant specifically set up to take advantage of the popularity of on demand services. Supplying their customers indirectly through online ordering apps and websites. Typically the premises are located within the delivery range of a large city, but outside the most expensive high traffic areas. This greatly reduces cost and can provide a more efficient space for creating great food. </p>
+<!-- <p>A Cloud Kitchen is a restaurant specifically set up to take advantage of the popularity of on demand services. Supplying their customers indirectly through online ordering apps and websites. Typically the premises are located within the delivery range of a large city, but outside the most expensive high traffic areas. This greatly reduces cost and can provide a more efficient space for creating great food. </p>
 
 <br>
 <h2>Benefits of delivery only</h2>
@@ -81,4 +81,4 @@ Photo by Kate Trifo from Pexels
 
 <p>UBS predicts that delivery could be cheaper than home prepared meals in the near future. Following suit to the traditional home created clothes, almost a century ago before it was less economical to buy mass prepared clothing.</p>
 
-<p>The pressures of maintaining a storefront in a post Covid world may prove a thankless task in the future, and the allure of a Cloud Kitchen will strike many as salvation. The costs may be cheaper and some of the management will be lessened but making a great kitchen still requires all the same hard work and ingenuity as before, the best all rounders will reap the most rewards.</p>
+<p>The pressures of maintaining a storefront in a post Covid world may prove a thankless task in the future, and the allure of a Cloud Kitchen will strike many as salvation. The costs may be cheaper and some of the management will be lessened but making a great kitchen still requires all the same hard work and ingenuity as before, the best all rounders will reap the most rewards.</p> -->

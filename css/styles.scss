@@ -2,96 +2,65 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-$base-color: #c6538c;
-
-// Graphik,Trebuchet,Verdana,Helvetica,Arial,sans-serif
+$base-color: rgb(0, 175, 240);
 
 body {
-  font-family: Graphik,Trebuchet,Verdana,Helvetica,Arial,sans-serif!important;
+  font-family: Inter,SF UI Text,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Icons16;
+  font-feature-settings: "liga","kern";
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.28581;
+  text-transform: none;
+  color: #333;
 }
 
 .text-base-color {
   color: $base-color;
 }
 
-.card-tag {
- color: $base-color;
+.main-title {
+  font-size: 3rem;
+  font-weight: 700;
+  color: rgba(0,0,0,.9);
+  text-align: center;
 }
 
-.card {
-  border: none;
-  border-radius: 0px;
-  margin: 0px;
+.sub-title {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: rgba(0,0,0,.6);
+  text-align: center;
 }
 
-.card:hover {
-  -webkit-box-shadow: 0px 0px 4px 0px rgba(237,232,237,1);
--moz-box-shadow: 0px 0px 4px 0px rgba(237,232,237,1);
-box-shadow: 0px 0px 4px 0px rgba(237,232,237,1);
-  cursor: pointer;
+.light-text {
+  font-size: 1.4rem;
+  font-weight: 300;
+  color: #333;
+  opacity: 0.6;
 }
 
-.card-title {
-  color: black;
+.jumbotron {
+  background: #F6F5F5;
 }
 
-.card-body {
-  color: black;
+.banner {
+  background-color: $base-color;
+  padding: 10px;
+  text-align: center;
+  color: white;
 }
 
-a:hover {
-  text-decoration: none;
+.boarder {
+  margin-left:100px;
+  margin-right:100px
 }
 
-.card-img {
-  padding: 25px;
-  object-fit: cover;
-  overflow: hidden;
-  height: 230px;
-}
-
-.featured-card-img {
-  padding: 20px;
-  object-fit: cover;
-  overflow: hidden;
-  width: 100%;
-}
-
-.featured-card {
-  border: none;
-  border-radius: 0px;
-  margin: 0px;
-  padding: 25px;
-}
-
-.featured-card:hover {
-  cursor: pointer;
-}
-
-.half-card-img {
-  padding: 20px;
-  object-fit: cover;
-  overflow: hidden;
-  width: 100%;
-}
-
-.post-img {
-  object-fit: cover;
-  overflow: hidden;
-  width: 100%;
-  height: 370px;
-}
-
-#mce-EMAIL {
-  margin-right: 10px;
-}
-
-.logo {
-  /* Extra small devices (phones, less than 768px) */
-  font-size: 1.6rem;
-
-  /* Small devices (tablets, 768px and up) */
-  @media (min-width: 768px) {
-    font-size: 3rem;
-  }
+.button {
+  background-color: $base-color;
+  padding: 10px;
+  text-align: center;
+  color: white;
 }
