@@ -13,7 +13,7 @@ layout: default
         Register now to have your properties automatically listed on the next big portal, all leads
         are directed back to your website.
       </p>
-      
+
       <img
         alt="Three previews of the app"
         src="/images/preview.png"
@@ -33,7 +33,7 @@ layout: default
 
   <div class="row boarder">
     <div class="col-md-4">
-      <div class="card">
+      <div class="card full-height">
         <div class="card-body">
           <i class="fas fa-mobile-alt fa-2x light-text"></i>
 
@@ -51,7 +51,7 @@ layout: default
     </div>
 
     <div class="col-md-4">
-      <div class="card">
+      <div class="card full-height">
         <div class="card-body">
           <i class="fas fa-balance-scale fa-2x light-text"></i>
 
@@ -69,7 +69,7 @@ layout: default
     </div>
 
     <div class="col-md-4">
-      <div class="card">
+      <div class="card full-height">
         <div class="card-body">
           <i class="fas fa-cogs fa-2x light-text"></i>
 
