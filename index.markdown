@@ -37,7 +37,7 @@ layout: default
         <div class="card-body">
           <i class="fas fa-mobile-alt fa-2x light-text"></i>
 
-          <br/>
+          <br/><br/>
 
           <h3 class="card-title">Mobile only</h3>
 
@@ -55,7 +55,7 @@ layout: default
         <div class="card-body">
           <i class="fas fa-balance-scale fa-2x light-text"></i>
 
-          <br/>
+          <br/><br/>
 
           <h3 class="card-title">No Fees</h3>
 
@@ -73,7 +73,7 @@ layout: default
         <div class="card-body">
           <i class="fas fa-cogs fa-2x light-text"></i>
 
-          <br/>
+          <br/><br/>
 
           <h3 class="card-title">Innovative features</h3>
 
@@ -113,7 +113,7 @@ layout: default
         <div class="col-md-6">
           <i class="fas fa-search-location fa-2x light-text"></i>
 
-          <br/>
+          <br/><br/>
 
           <h3>Detailed property search</h3>
 
@@ -127,7 +127,7 @@ layout: default
         <div class="col-md-6">
           <i class="fas fa-save fa-2x light-text"></i>
 
-          <br/>
+          <br/><br/>
 
           <h3>Save and Share</h3>
 
@@ -145,7 +145,7 @@ layout: default
         <div class="col-md-6">
           <i class="fas fa-laptop-house fa-2x light-text"></i>
 
-          <br/>
+          <br/><br/>
 
           <h3>Accurate Recommendations</h3>
 
@@ -158,7 +158,7 @@ layout: default
         <div class="col-md-6">
           <i class="fab fa-pagelines fa-2x light-text"></i>
 
-          <br/>
+          <br/><br/>
 
           <h3>One source for all properties</h3>
 
