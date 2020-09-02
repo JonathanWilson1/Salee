@@ -89,9 +89,67 @@ layout: default
 
   <br/>
 
+
+
+
+  <div class="row boarder">
+    <div class="col-md-4">
+      <div class="card full-height">
+        <div class="card-body">
+          <i class="fas fa-gamepad fa-2x light-text"></i>
+
+          <br/><br/>
+
+          <h3 class="card-title">Full control</h3>
+
+          <p class="card-text light-text">
+            Data is always a reflection of your website, changes are updated in realtime and you can blacklist or remove data at any time. One to one support for every agent.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card full-height">
+        <div class="card-body">
+          <i class="fas fa-map-marked-alt fa-2x light-text"></i>
+          <br/><br/>
+
+          <h3 class="card-title">No conflicting interests</h3>
+
+          <p class="card-text light-text">
+            Estate agents are the foundation of Salee's existence and all features will be carefully considered before implementation to make sure the product works fairly for all users. We will never create a competing feature to estate agents interests.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card full-height">
+        <div class="card-body">
+          <i class="fas fa-hands-helping fa-2x light-text"></i>
+
+          <br/><br/>
+
+          <h3 class="card-title">Work with us</h3>
+
+          <p class="card-text light-text">
+            Salee is just beginning a long journey and you can have a huge say in the features created at this stage. Get in touch to speak directly to the <a href="mailto:jonathan@salee.io">development team</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
   <br/>
 
   <br/>
+
+  <br/>
+
+
 <div class="row boarder">
   <!-- Begin Mailchimp Signup Form -->
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -195,7 +253,7 @@ layout: default
 
           <p class="light-text">
             Receive recommendations based on our customers specific search criteria, price and
-            location are not everything. Let us show them their dream homes.
+            location are not everything. Let us find them their dream homes.
           </p>
         </div>
 
@@ -216,5 +274,26 @@ layout: default
     </div>
   </div>
 
+
+    <br/><br/><br/>
+
+    <div class="row boarder">
+      <div class="col-md-6">
+          <iframe style="position: absolute; height: 140%; width: 90%; border: none" src="https://www.youtube.com/embed/TlUUUENwQF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
+      <div class="col-md-6">
+        <p class="sub-title">We need estate agents</p>
+
+        <h1 class="main-title">Get in touch and help influence the new way customers find homes</h1>
+
+        <p class="sub-title">
+          Speak directly to the <a href="mailto:jonathan@salee.io">development team</a> and discuss what you think is needed in a the next property portal.
+        </p>
+      </div>
+    </div>
+
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
   <!-- //no work to list -->
 </div>
